@@ -15,7 +15,7 @@ setup(
     license="MIT",
     packages=find_packages(exclude=["tests"]),
     install_requires=[
-        "Pillow>=5.0.0, <6.0.0"
+        "Pillow>=5.0.0, <7.0.0"
     ],
     classifiers=[
         "Development Status :: 3 - Alpha",
